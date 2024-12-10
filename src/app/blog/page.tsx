@@ -80,7 +80,7 @@ const blog = () => {
     </div>
 
    {/* Right Section */}
-<div className="flex-[0.35] min-w-[30%] space-y-6">
+<div className="hidden lg:block flex-[0.35] min-w-[30%] space-y-6">
   {/* Search Input */}
   <div className="w-full flex justify-center mb-6">
     <div className="flex items-center border border-gray-300 rounded-lg overflow-hidden w-full max-w-lg">
